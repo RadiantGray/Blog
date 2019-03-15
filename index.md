@@ -1,8 +1,8 @@
 # Just testing
-
+# Hello
 Remember the time when you wanted the things that you now have?
 
-<!doctype html>
+
 <html lang="en">
   <head>
     <!-- Required meta tags -->
