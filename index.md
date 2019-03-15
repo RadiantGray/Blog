@@ -42,7 +42,6 @@ Remember the time when you wanted the things that you now have?
 	</div>
 	
 	
-	.row
 	
     <!-- Optional JavaScript -->
     <!-- jQuery first, then Popper.js, then Bootstrap JS -->
