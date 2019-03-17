@@ -1,7 +1,7 @@
-title: to myself...
+title: WWAAD
 date: 2018-06-21
 
-author: n00man
+author: Tsvetelin Todorov
 email: tsvete.todorov@outlook.com
 description: > # this means to ignore newlines until "baseurl:"
  Let me figure first why , then I will figure how.
@@ -12,4 +12,4 @@ github_username:  n00man
 
 show_excerpts: true # set to false to remove excerpts on the homepage
 
-theme: jekyll-theme-leap-day
+theme:
