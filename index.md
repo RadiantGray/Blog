@@ -1,6 +1,5 @@
 # WWAAD
 # Hello
-Remember the time when you wanted the things that you now have?
 
 
 <html lang="en">
@@ -12,7 +11,7 @@ Remember the time when you wanted the things that you now have?
     <!-- Bootstrap CSS -->
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.0/css/bootstrap.min.css" integrity="sha384-9gVQ4dYFwwWSjIDZnLEWnxCjeSWFphJiwGPXr1jddIhOegiu1FwO5qRGvFXOdJZ4" crossorigin="anonymous">
 
-    <title>edX - Xde</title>
+    <title>White Box</title>
   </head>
   <body style="background-color: gray;">
 	<div class="container mt-5">
