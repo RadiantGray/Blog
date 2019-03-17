@@ -1,4 +1,4 @@
-# WWAAD
+#					 WWAAD
 # Hello
 
 
@@ -16,26 +16,8 @@
   <body style="background-color: gray;">
 	<div class="container mt-5">
 		<div class="row">
-		<div class="col-12 mt-1">
-				<a href="https://courses.edx.org/courses/course-v1:Microsoft+DEV262x+1T2018a/course/" class="btn btn-dark btn-lg btn-block">Logic and Computational Thinking</a>
-			</div>
 			<div class="col-12 mt-1">
-				<a href="https://courses.edx.org/courses/course-v1:HarvardX+CS50+X/course/" class="btn btn-dark btn-lg btn-block">Computer Science - Harvard CS50x</a>
-			</div>
-			<div class="col-12 mt-3 p-3 border border-dark" style="background-color:#696969;">
-				<a class="text-center text-dark" href="https://www.edx.org/microsoft-professional-program-front-end-development"><h4>Microsoft Professional Program in Front-End Web Development</h4></a>
-				<a href="https://www.edx.org/course/front-end-web-development-orientation-microsoft-dev237x-1" class="btn btn-secondary btn-lg btn-block text-left"><span class="pr-5 mr-5">Course 1:</span> Microsoft Professional Orientation : Front End Web Development</a>
-				<a href="https://www.edx.org/course/javascript-introduction-w3cx-js-0x-0" class="btn btn-secondary btn-lg btn-block text-left"><span class="pr-5 mr-5">Course 2:</span> Javascript Introduction</a>
-				<a href="https://www.edx.org/course/css-basics-w3cx-css-0x-0" class="btn btn-secondary btn-lg btn-block text-left"><span class="pr-5 mr-5">Course 3:</span> CSS Basics</a>
-				<a href="https://www.edx.org/course/advanced-css-concepts" class="btn btn-secondary btn-lg btn-block text-left"><span class="pr-5 mr-5">Course 4:</span> Advanced CSS</a>
-				<a href="https://www.edx.org/course/introduction-to-bootstrap-a-tutorial" class="btn btn-secondary btn-lg btn-block text-left"><span class="pr-5 mr-5">Course 5:</span> Introduction to Bootstrap - A Tutorial</a>
-				<a href="https://www.edx.org/course/introduction-to-jquery" class="btn btn-secondary btn-lg btn-block text-left"><span class="pr-5 mr-5">Course 6:</span> Introduction to jQuery</a>
-				<a href="https://www.edx.org/course/angularjs-framework-fundamentals" class="btn btn-secondary btn-lg btn-block text-left"><span class="pr-5 mr-5">Course 7:</span> AngularJS: Framework Fundamentals</a>
-				<a href="https://www.edx.org/course/angularjs-advanced-framework-techniques" class="btn btn-secondary btn-lg btn-block text-left"><span class="pr-5 mr-5">Course 8:</span> AngularJS: Advanced Framework Techniques</a>
-				<a href="https://www.edx.org/course/building-your-azure-skills-toolkit" class="btn btn-secondary btn-lg btn-block text-left"><span class="pr-5 mr-5">Course 9:</span> Building Your Azure Skills Toolkit</a>
-				<a href="https://www.edx.org/course/using-open-source-web-tooling-to-improve-development-proficiency" class="btn btn-secondary btn-lg btn-block text-left"><span class="pr-5 mr-5">Course 10:</span>Using Open Source Web Tooling to Improve Development Proficiency</a>
-				<a href="https://www.edx.org/course/devops-for-developers-how-to-get-started" class="btn btn-secondary btn-lg btn-block text-left"><span class="pr-5 mr-5">Course 11:</span>DevOps for Developers: How to Get Started</a>
-				<a href="https://www.edx.org/course/microsoft-professional-capstone-front-end-web-development" class="btn btn-secondary btn-lg btn-block text-left"><span class="pr-5 mr-5">Course 12:</span>Microsoft Professional Capstone : Front End Web Development</a>
+				<a href="Blog/_posts/1" class="btn btn-dark btn-lg btn-block">First Post</a>
 			</div>
 		</div>
 	</div>
