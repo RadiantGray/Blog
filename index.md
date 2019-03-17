@@ -17,7 +17,7 @@
 	<div class="container mt-5">
 		<div class="row">
 			<div class="col-12 mt-1">
-				<a href="/_posts/1" class="btn btn-dark btn-lg btn-block">First Post</a>
+				<a href="blabbering" class="btn btn-dark btn-lg btn-block">First Post</a>
 			</div>
 		</div>
 	</div>
