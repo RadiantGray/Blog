@@ -1,0 +1,58 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <!-- Required meta tags -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+    <!-- Bootstrap CSS -->
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.0/css/bootstrap.min.css" integrity="sha384-9gVQ4dYFwwWSjIDZnLEWnxCjeSWFphJiwGPXr1jddIhOegiu1FwO5qRGvFXOdJZ4" crossorigin="anonymous">
+    <link rel="stylesheet" href="css/mystyles.css">
+    <title>P1xt</title>
+  </head>
+  <body>
+    <h1 class="text-center mt-2">First Post</h1>
+    <div class="border border-warning rounded">
+    	<div class="ml-5">
+    		<h2 class="border-bottom border-gray">White Box</h2>
+    	</div>
+    	<div class="container">
+    		<p>	Data Science - comprehensive
+			A curriculum covering Data Science topics relevant to Machine Learning, Bioinformatics, and Artificial Intelligence. Includes necessary background in mathematics and the sciences.<br>
+			Suggestions:
+			</p>
+			<ul>
+				<li>Do all courses/books in order</li>
+				<li>Don't skip anything (if you're tempted to skip a course because you think you already know it, take the final, if you pass, then skip).</li>
+				<li>Projects are listed at the end of each Tier, you should consider them assigned at the beginning of the Tier, and due at the end - so work on them alongside the books and courses as you work your way through a Tier.</li>
+				<li>For any project, feel free to use Python or R. Python is introduced earlier in the guide so it's likely you'll use it nearly exclusively for the earlier projects. It would be a good idea to lean more heavily on R in the latter projects to ensure you have substantial practice in both.</li>
+				<li>Make a point of building your GitHub profile during your study so that over time you show a history of data science projects.</li>
+				<li>If you haven't already, begin blogging about what you're learning on Medium (or elsewhere). Try to focus on tutorials for topics you've learned well that might be helpful to others.</li>
+			</ul>
+			<p>
+			<span class="font-weight-bold">Note:</span> All items should have a free to audit option. There are two Algorithms courses which require a book purchase (Cormen), but I have provided alternate courses which do not.
+			</p>
+    	</div>
+    	<div class="ml-5">
+    		<h2 class="border-bottom border-gray">Blogs</h2>
+    	</div>
+    	<div class="container">
+			<p>Bookmark these blogs and try to read at least one article from one of them per week.</p>
+			<ul>
+				<li><a href="https://www.dataschool.io/">Data School</a></li>
+				<li><a href="https://machinelearningmastery.com/blog/">Machin Learning Mastery</a></li>
+				<li><a href="http://blog.kaggle.com/">No Free Hunch - Kaggle's Blog</a></li>
+				<li><a href="https://petewarden.com/">Pete Warden's Blog</a></li>
+				<li><a href="http://www.unofficialgoogledatascience.com/">The Unofficial Google Data Science Blog</a></li>
+				<li><a href="http://www.datasciencecentral.com/">Data Science Central</a></li>
+				<li><a href="https://www.r-bloggers.com/">R Bloggers</a></li>
+			</ul>
+    	</div>
+	</div>
+        <!-- Optional JavaScript -->
+        <!-- jQuery first, then Popper.js, then Bootstrap JS -->
+        <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.0/umd/popper.min.js" integrity="sha384-cs/chFZiN24E4KMATLdqdvsezGxaGsi4hLGOzlXwp5UZB1LY//20VyM2taTB4QvJ" crossorigin="anonymous"></script>
+        <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.0/js/bootstrap.min.js" integrity="sha384-uefMccjFJAIv6A+rW+L4AHf99KvxDjWSu1z9VI8SKNVmz4sk7buKt/6v9KI65qnm" crossorigin="anonymous"></script>
+  </body>
+</html>
